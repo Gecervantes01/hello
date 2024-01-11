@@ -1,0 +1,12 @@
+{
+  "name": "gecervantes/328/hello",
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+    "name": "Giovan Cervantes",
+    "email": "giovancervante@yahoo.com"
+    }],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
